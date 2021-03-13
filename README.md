@@ -12,7 +12,7 @@ Project | Description | Language or tech stack used
 # 💼 Work Experience
 Roles | Type | Location | Duration | From-Until
 --- | --- | --- | --- | ---
-Programming Laboratory Assistant | Assistant | [Institut Teknologi Bandung](https://www.linkedin.com/school/itb/) | N/A | Agustus 2020 - Now
+Programming Laboratory Assistant | Assistant | [Institut Teknologi Bandung](https://www.linkedin.com/school/itb/) | N/A | August 2020 - Now
 Computation Introduction Lab Assistant | Assistant | [Institut Teknologi Bandung](https://www.linkedin.com/school/itb/) | 4 months + 4 months | September 2019 - December 2019 and September 2020 - December 2020
 
 # 💻 Languages and Tools
