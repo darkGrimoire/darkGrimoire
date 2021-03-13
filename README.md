@@ -1,5 +1,5 @@
 # 💬 Introduction
-Hello! My name is [Faris Rizki Ekananda](https://www.linkedin.com/in/faris-rizki-ekananda-a3583a198/) from Bandung. I'm currently studying Informatics Engineering at Bandung Teknologi of Institute (ITB). I love learning new things, and I'm interested in website development, software engineering, and game development. Feel free to contact me!
+Hello! My name is [Faris Rizki Ekananda](https://www.linkedin.com/in/faris-rizki-ekananda-a3583a198/) from Bandung. I'm currently studying Informatics Engineering at Bandung Institute of Technology (ITB). I love learning new things, and I'm interested in website development, software engineering, and game development. Feel free to contact me!
 
 # 📌 Projects
 Project | Description | Language or tech stack used
@@ -13,7 +13,7 @@ Project | Description | Language or tech stack used
 Roles | Type | Location | Duration | From-Until
 --- | --- | --- | --- | ---
 Programming Laboratory Assistant | Assistant | [Institut Teknologi Bandung](https://www.linkedin.com/school/itb/) | N/A | Agustus 2020 - Now
-Computation Introduction Lab Assistant | Assistant | [Institut Teknologi Bandung](https://www.linkedin.com/school/itb/) | 6 months + 6 months | September 2019 - December 2019 and September 2020 - December 2020
+Computation Introduction Lab Assistant | Assistant | [Institut Teknologi Bandung](https://www.linkedin.com/school/itb/) | 4 months + 4 months | September 2019 - December 2019 and September 2020 - December 2020
 
 # 💻 Languages and Tools
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
