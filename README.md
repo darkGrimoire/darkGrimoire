@@ -4,7 +4,7 @@ Hello! My name is [Faris Rizki Ekananda](https://www.linkedin.com/in/faris-rizki
 # 📌 Projects
 Project | Description | Language or tech stack used
 --- | --- | ---
-[GEP Eksplorasa Virtual Exhibition](https://github.com/darkGrimoire/gep-eksplorasa) - [Link here!](https://eksplorasa.com) | Immersive virtual exhibition experience (opens at February 21-28th 2021, but feel free to visit the limited version of it!) | Nuxt, Firebase, Turn.js and GSAP
+[GEP Eksplorasa Virtual Exhibition](https://github.com/darkGrimoire/gep-eksplorasa) - [Link here!](https://eksplorasa.com) | Immersive virtual exhibition experience (opens at February 21-28th 2021, but feel free to visit the limited version of it!) | Nuxt, Firebase, JQuery and GSAP
 [Halma Bot](https://github.com/darkGrimoire/tubes-ai) | Bot for Halma board game using Minimax algorithm | Java + Gradle
 [Avatar Duel](https://github.com/littlemight/Avatar-Duel) | Avatar-themed Yu-Gi-Oh!-like card game made with OOP principles | Java + Gradle
 [Automatic Presence Bot](https://github.com/darkGrimoire/6-auto-purezento) | Bot for website automation | Python + Selenium
