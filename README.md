@@ -9,7 +9,7 @@ Project | Description | Language or tech stack used
 [Minesweeper Bot](https://github.com/darkGrimoire/tubes-ai-2) | Bot for Minesweeper game using Rule-based System CLIPS | Python + CLIPS + PyQt5
 [Halma Bot](https://github.com/darkGrimoire/tubes-ai) | Bot for Halma board game using Minimax algorithm | Java + Gradle
 [Avatar Duel](https://github.com/littlemight/Avatar-Duel) | Avatar-themed Yu-Gi-Oh!-like card game made with OOP principles | Java + Gradle
-[Hoyolab Daily Bot](https://github.com/darkGrimoire/6-auto-purezento) | Bot for website automation (Genshin Impact Daily Check-In) | Python + Request
+[Hoyolab Daily Bot](https://github.com/darkGrimoire/hoyolab-daily-bot) | Bot for website automation (Genshin Impact Daily Check-In) | Python + Request
 [Tanks: Multiplayer](https://github.com/darkGrimoire/IF3210-2021-Unity-K02-05) | [Unity Tanks Project](https://learn.unity.com/project/tanks-tutorial) but with extended capabilities and multiplayer support | Unity Mono + Mirror
 
 # 💼 Work Experience
