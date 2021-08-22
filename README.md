@@ -15,7 +15,7 @@ Project | Description | Language or tech stack used
 # 💼 Work Experience
 Roles | Type | Location | Duration | From-Until
 --- | --- | --- | --- | ---
-Software Engineer Intern | Internship | [Bersihin](https://www.linkedin.com/company/bersihin/) | 2.5 months | June 2021 - Now
+Software Engineer Intern | Internship | [Bersihin](https://www.linkedin.com/company/bersihin/) | 2.5 months | June 2021 - August 2021
 Programming Laboratory Assistant | Assistant | [Institut Teknologi Bandung](https://www.linkedin.com/school/itb/) | N/A | August 2020 - Now
 Computation Introduction Lab Assistant | Assistant | [Institut Teknologi Bandung](https://www.linkedin.com/school/itb/) | 4 months + 4 months | September 2019 - December 2019 and September 2020 - December 2020
 
