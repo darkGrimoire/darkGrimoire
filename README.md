@@ -4,7 +4,7 @@ Hello! My name is [Faris Rizki Ekananda](https://www.linkedin.com/in/faris-rizki
 # 📌 Projects
 Project | Description | Language or tech stack used
 --- | --- | ---
-[GEP Eksplorasa Virtual Exhibition](https://github.com/darkGrimoire/gep-eksplorasa) - [Link here!](https://eksplorasa.com) | Immersive virtual exhibition experience (opens at February 21-28th 2021, but feel free to visit the limited version of it!) | Nuxt, Firebase, JQuery and GSAP
+[GEP Eksplorasa Virtual Exhibition](https://github.com/darkGrimoire/gep-eksplorasa) - [Link here!](https://eksplorasa.farisekananda.dev) | Immersive virtual exhibition experience (opens at February 21-28th 2021, but feel free to visit the limited version of it!) | Nuxt, Firebase, JQuery and GSAP
 [ITB October Graduation Website](https://wisoktoitb.com) | Website dedicated for graduation event in October 2020 | Nuxt, Firebase
 [Minesweeper Bot](https://github.com/darkGrimoire/tubes-ai-2) | Bot for Minesweeper game using Rule-based System CLIPS | Python + CLIPS + PyQt5
 [Halma Bot](https://github.com/darkGrimoire/tubes-ai) | Bot for Halma board game using Minimax algorithm | Java + Gradle
