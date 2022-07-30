@@ -1,5 +1,5 @@
 # 💬 Introduction
-Hello! My name is [Faris Rizki Ekananda](https://www.linkedin.com/in/faris-rizki-ekananda-a3583a198/) from Bandung. I'm currently studying Informatics Engineering at Bandung Institute of Technology (ITB). I love learning new things, and I'm interested in website development, software engineering, and game development. Feel free to contact me!
+Hello! My name is [Faris Rizki Ekananda](https://www.linkedin.com/in/faris-rizki-ekananda-a3583a198/) from Bandung. I'm a fresh graduate majoring in Informatics Engineering at Bandung Institute of Technology (ITB). I love learning new things, and I'm interested in website development, software engineering, and game development. Feel free to contact me!
 
 # 📌 Projects
 Project | Description | Language or tech stack used
@@ -15,8 +15,9 @@ Project | Description | Language or tech stack used
 # 💼 Work Experience
 Roles | Type | Location | Duration | From-Until
 --- | --- | --- | --- | ---
+Associate Software Engineer | Fulltime | [Tokopedia](https://www.linkedin.com/company/pt--tokopedia/mycompany/) | 1 month | July 2022 - Present
 Software Engineer Intern | Internship | [Bersihin](https://www.linkedin.com/company/bersihin/) | 2.5 months | June 2021 - August 2021
-Programming Laboratory Assistant | Assistant | [Institut Teknologi Bandung](https://www.linkedin.com/school/itb/) | N/A | August 2020 - Now
+Programming Laboratory Assistant | Assistant | [Institut Teknologi Bandung](https://www.linkedin.com/school/itb/) | 2 years | August 2020 - July 2022
 Computation Introduction Lab Assistant | Assistant | [Institut Teknologi Bandung](https://www.linkedin.com/school/itb/) | 4 months + 4 months | September 2019 - December 2019 and September 2020 - December 2020
 
 # 💻 Languages, Frameworks, DB and Tools
